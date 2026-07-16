@@ -1,0 +1,15 @@
+{
+  "name": "photon-daemon-2120",
+  "version": "0.1.0",
+  "generator": "PushForge Engine",
+  "capabilities": [
+    "ideate",
+    "compose",
+    "commit"
+  ],
+  "manifest": {
+    "entry": "src/index.ts",
+    "seed": 6557,
+    "createdAt": "2026-07-16T06:14:09.291Z"
+  }
+}
